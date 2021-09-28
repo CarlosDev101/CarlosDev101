@@ -1,11 +1,11 @@
 ### Olá, me chamo Carlos Eduardo! 👋
 
-#Minha nota no GitHub
+# Minha nota no GitHub
 <div>
   <a href="https://github.com/carlosdev101">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-#As linguagens que eu mais uso 
+# As linguagens que eu mais uso 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -19,7 +19,7 @@
 </div>
 
 ##
-#Minhas redes sociais
+# Minhas redes sociais
 <div>
      <a href="https://youtube.com/channel/UC7FBO5CzKjDzo5laiu3QRwg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/carlosdev10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
