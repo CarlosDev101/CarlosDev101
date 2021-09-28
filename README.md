@@ -1,10 +1,10 @@
 ### Olá, me chamo Carlos Eduardo! 👋
 
 <div>
-  <a href="https://github.com/yakuza892">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yakuza892&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/carlosdev101">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakuza892&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,4 +25,4 @@
 
 </div>
 
-![Snake animation](https://github.com/yakuza892/yakuza892/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carlosdev101/carlosdev101/blob/output/github-contribution-grid-snake.svg)
