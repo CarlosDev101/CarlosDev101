@@ -3,7 +3,7 @@
 
 - 🔥 Dev Junior 
 
-- 👨‍💻 All of my projects are available at [CarlosDwv](https://github.com/CarlosDev101)
+- 👨‍💻 All of my projects are available at [CarlosDev](https://github.com/CarlosDev101)
 
 - 💬 Ask me about **Python, Java, HTML, CSS**
 
