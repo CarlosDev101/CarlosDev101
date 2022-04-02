@@ -31,7 +31,7 @@
 </div>
 
 
-<h2 align="center">📇 knowledge 📇 </h2>
+<h2 align="center">🙎🏻‍♂ knowledge 🙎🏻‍♂ </h2>
 <p>
 
 I'm also good at programming logic, I know how to play guitar, I skate and I love listening to music
@@ -43,14 +43,14 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
 </p>
 <br><br>
 
-<h2 align="center">🦊 GitHub Analytics 🦊</h2>
+<h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=vision-friendly-dark" alt="carlosdev101's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
 </p>
 
-<h2 align="center">🦊 Social Links 🦊</h2>
+<h2 align="center">🐺 Social Links 🐺</h2>
 
 <div>
      <a href="https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
