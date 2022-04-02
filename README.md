@@ -31,7 +31,7 @@
 </div>
 
 
-<h2 align="center">             📇 knowledge 📇 </h2>
+<h2 align="center">📇 knowledge 📇 </h2>
 <p>
 
 I'm also good at programming logic, I know how to play guitar, I skate and I love listening to music
