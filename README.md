@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-- ▶️ I regularly post videos on [youtube.com/carlosdev](https://www.youtube.com/channel/UC7FBO5CzKjDzo5laiu3QRwg)
+- ▶️ I regularly post videos on [youtube.com/carlosdev](https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ)
 <br><br>
 
 <div>
