@@ -23,7 +23,7 @@
   <b>Age:</b> 16 years old
 </li>
 <li>
-<b>Loves:</b> anime, movies, series, musics, games
+<b>Loves:</b> animes, movies, series, musics, games
 </li>
 <li>
 <b>Nationality:</b> Brazilian
