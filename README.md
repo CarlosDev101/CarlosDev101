@@ -15,7 +15,6 @@
 
 <div>
 <h2 align="center"> 🦊 About me 🦊 </h2>
-<img src= "https://64.media.tumblr.com/ea3a708f1f33b4f47b835d09a1f37a69/b5cb180c2c00e0a5-b5/s400x600/110764b89a8332b178f1328f983115983676ba77.gifv" align="right">
 <li>
   <b>Name:</b> Carlos Eduardo
 </li>
