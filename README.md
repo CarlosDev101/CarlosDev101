@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm CarlosDev</h1>
 
-<img src="http://www.funimation.com/myheroacademia align="center">
+<img src="https://64.media.tumblr.com/60611a6332d425ce62d7f1d8de78848d/f4ed033572584c35-02/s640x960/017531c4475af73ee408bf33bd580532132199d0.gifv" align="center">
 
 - 🔥 Dev Junior 
 
@@ -15,6 +15,7 @@
 
 <div>
 <h2 align="center"> 🦊 About me 🦊 </h2>
+<img src="https://64.media.tumblr.com/1a3a3b00e55bc02f3c306e48a7b85382/23ac3b6757b283eb-94/s400x600/f7fc8af22ed0dfbcf23c189758a02b8898137aed.gifv" align="right">
 <li>
   <b>Name:</b> Carlos Eduardo
 </li>
@@ -28,10 +29,6 @@
 <b>Nationality:</b> Brazilian
 </li>
 </div>
-
-
-<h2 align="center">🙎🏻‍♂ Knowledge 🙎🏻‍♂ </h2>
-<p>
 
 I'm also good at programming logic, I know how to play guitar, I skate and I love listening to music
 <div style="display: inline_block"><br>
@@ -58,7 +55,7 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
 
 <h2 align="center">💖 Thanks for reading 💖</h2>
 <div align="center">
-<img src="https://64.media.tumblr.com/580bcb2a401eefe7f32e17b15d37512a/edf80f99aead6cef-78/s500x750/2f5316d271569f0d65429255c63c8ac9bbf261e4.gifv">
+<img src="https://64.media.tumblr.com/f33afd245a9f7d2dde461f85dcade514/7ff2dbaed833e191-11/s1280x1920/5cb6e4e581403be364295425816df6273221aafe.gifv">
 </div>
 
 
