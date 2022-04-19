@@ -33,7 +33,7 @@
 I'm also good at programming logic, I know how to play guitar, I skate and I love listening to music
 <div style="display: inline_block"><br>
   <img  alt="CarlosDev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  alt="CarlosDev-Java" height="30" width="40" src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/java.svg"> 
+  <img  alt="CarlosDev-Java" height="30" width="40" src="https://th.bing.com/th/id/R.2ebcc816698b99a4161299534445dd02?rik=F5u5EFRfzveRpw&riu=http%3a%2f%2fcheckpoint-it.hu%2f_media%2fimg%2fsmall%2ficons8-java-480.png&ehk=4bCNLeQJRMzHfk6uWAJR%2bq02OEnL%2fqQguYJBmz3TsPw%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"> 
   <img  alt="CarlosDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  alt="CarlosDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <p align="left">
