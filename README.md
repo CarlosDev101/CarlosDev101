@@ -46,7 +46,7 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
 <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
 </p>
 
-<h2 align="center">🐺 Social Links 🐺</h2>
+<h2 align="center">🔱 Social Links 🔱</h2>
 
 <div align="left">
   <a href="https://www.instagram.com/carlosdev10/" target="_blank"><img src="https://th.bing.com/th/id/R.d90cd50edab7ce208bf45492c65af05d?rik=5w3tf7Pv2qWR6Q&pid=ImgRaw&r=0" width="60em"></a>
