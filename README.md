@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [CarlosDev](https://github.com/CarlosDev101)
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, Java, HTML, CSS**
 
 - ⚡ Fun fact **Oneye 😜**
 
