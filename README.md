@@ -33,23 +33,34 @@
 I'm also good at programming logic, I know how to play guitar, I skate and I love listening to music
 <div style="display: inline_block"><br>
   <img  alt="CarlosDev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img  alt="CarlosDev-Java" height="30" width="40" src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/java.svg"> 
   <img  alt="CarlosDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  alt="CarlosDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <p align="left">
 </div>
-</p>
-<br><br>
+
+<h2 align="center">Spotify Playing 🎧</h2>
+
+[<img src="https://spotify-now-playing.CarlosDev/api/spotify-playing" alt="CarlosDev Spotify Playing" width="350" />](https://open.spotify.com/user/carloseduardotoy)
+
+
 
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=vision-friendly-dark" alt="carlosdev101's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
+<img width="380em" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=vision-friendly-dark" alt="carlosdev101's stats"/>
+<img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
 </p>
 
 <h2 align="center">🐺 Social Links 🐺</h2>
 
 <div>
-     <a href="https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/carlosdev10/" target="_blank"><img src="https://th.bing.com/th/id/R.d90cd50edab7ce208bf45492c65af05d?rik=5w3tf7Pv2qWR6Q&pid=ImgRaw&r=0" width="60em"></a>
+  <a href="https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ" target="_blank"><img src="https://multarte.com.br/wp-content/uploads/2020/04/youtube_logo.png" width="60em"></a>
+  <a href="https://discord.com/users/653373680776380461" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/7f988ede7749e1e355b9faef32c66c4b0b13ee87/a9900/assets/images/tool-icons/discord.png" width="60em"></a>
+ 
+
+
 
 </div>
 
