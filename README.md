@@ -15,7 +15,7 @@
 
 <div>
 <h2 align="center"> 🦊 About me 🦊 </h2>
-<img src="https://64.media.tumblr.com/1a3a3b00e55bc02f3c306e48a7b85382/23ac3b6757b283eb-94/s400x600/f7fc8af22ed0dfbcf23c189758a02b8898137aed.gifv"  width="200px" align="right">
+<img src="https://64.media.tumblr.com/1a3a3b00e55bc02f3c306e48a7b85382/23ac3b6757b283eb-94/s400x600/f7fc8af22ed0dfbcf23c189758a02b8898137aed.gifv"  width="180px" align="right">
 <li>
   <b>Name:</b> Carlos Eduardo
 </li>
@@ -38,6 +38,11 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
   <img  alt="CarlosDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <p align="left">
 </div>
+  
+# Sportify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=carloseduardotoy&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 
