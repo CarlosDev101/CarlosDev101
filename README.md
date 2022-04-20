@@ -38,11 +38,6 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
   <img  alt="CarlosDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <p align="left">
 </div>
-  
-# Sportify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=carloseduardotoy&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true)](https://github.com/CarlosDev101)
-
 
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 
@@ -50,6 +45,10 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
 <img width="380em" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=vision-friendly-dark" alt="carlosdev101's stats"/>
 <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
 </p>
+
+<h2 align="center" >Sportify Playing 🎧</h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=carloseduardotoy&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true)](https://github.com/CarlosDev101)
 
 <h2 align="center">🔱 Social Links 🔱</h2>
 
