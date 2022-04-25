@@ -46,7 +46,7 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
 <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
 </p>
 
-<h3 align="center" >Spotify Playing 🎧</h2>
+<h3 align="center" >🎧 Spotify Playing 🎧</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=carloseduardotoy&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true)](https://github.com/CarlosDev101)
 
