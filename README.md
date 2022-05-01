@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm CarlosDev</h1>
 
-<img src="https://64.media.tumblr.com/60611a6332d425ce62d7f1d8de78848d/f4ed033572584c35-02/s640x960/017531c4475af73ee408bf33bd580532132199d0.gifv" align="center">
+<img src= "https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s400x600/05ccb753a73f4158abc271f4d7d24d141619ddbd.gifv" width="500px" align="center">
 
 - 🔥 Dev Junior 
 
@@ -15,7 +15,7 @@
 
 <div>
 <h2 align="center"> 🦊 About me 🦊 </h2>
-<img src="https://64.media.tumblr.com/1a3a3b00e55bc02f3c306e48a7b85382/23ac3b6757b283eb-94/s400x600/f7fc8af22ed0dfbcf23c189758a02b8898137aed.gifv"  width="180px" align="right">
+<img src="https://64.media.tumblr.com/db0d89c0286618f216dc0188f1d8daed/d51482178c06e3e4-cd/s400x600/50c72814b38d524a3c47a8cc183db7181b9f2e62.gifv"  width="180px" align="right">
 <li>
   <b>Name:</b> Carlos Eduardo
 </li>
