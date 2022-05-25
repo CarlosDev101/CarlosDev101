@@ -13,7 +13,6 @@
 - ▶️ I regularly post videos on [youtube.com/carlosdev](https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ)
 <br><br>
 <div align="left">
-  <a href="https://www.instagram.com/carlosdev10/" target="_blank"><img height="40" width="40" src="https://th.bing.com/th/id/R.d90cd50edab7ce208bf45492c65af05d?rik=5w3tf7Pv2qWR6Q&pid=ImgRaw&r=0"></a>
   <a href="https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ" target="_blank"><img height="40" width="40" src="https://multarte.com.br/wp-content/uploads/2020/04/youtube_logo.png"></a>
   <a href="https://discord.com/users/653373680776380461" target="_blank"><img height="40" width="40" src="https://d33wubrfki0l68.cloudfront.net/7f988ede7749e1e355b9faef32c66c4b0b13ee87/a9900/assets/images/tool-icons/discord.png"></a>
 </div>
