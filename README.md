@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm CarlosDev</h1>
+<h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"></span>, I'm CarlosDev</h1>
 
 <img src= "https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s400x600/05ccb753a73f4158abc271f4d7d24d141619ddbd.gifv" width="500px" align="center">
 
