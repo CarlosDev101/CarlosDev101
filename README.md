@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm CarlosDev 👋</h1>
 
-<img src= "https://64.media.tumblr.com/2c551700bc0501aaca64fc6316abe140/a15a1cf8a4616f2a-ca/s400x600/05ccb753a73f4158abc271f4d7d24d141619ddbd.gifv" width="500px" align="center">
+<img src= "https://64.media.tumblr.com/5762f6ce11eddded612602b01488156f/0e8da05b95451d6a-52/s640x960/d66e735a021582e5d1b3222e5c322faf0868a6c7.gifv" width="100%" height="500px" align="center">
 
 - 🔥 Dev Junior 
 
