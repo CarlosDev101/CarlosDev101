@@ -54,7 +54,7 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
 </p>
 <h2 align="center">💖 Thanks for reading 💖</h2>
 <div align="center">
-<img src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47vn0amvc9iz9iuu1979894uijfx9tjwl9a37eszjc&rid=giphy.gif&ct=g">
+<img src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47vn0amvc9iz9iuu1979894uijfx9tjwl9a37eszjc&rid=giphy.gif&ct=g" width="50%">
 </div>
 
 
