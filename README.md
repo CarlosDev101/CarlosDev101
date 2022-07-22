@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm CarlosDev 👋</h1>
+<h1 align="center"><img src="https://media1.giphy.com/media/j6xRdO7moPh2cgGMHN/giphy.gif?cid=ecf05e47q3675hprhj8jg65q4gzxtq2ef2v68mkhd8uifl2v&rid=giphy.gif&ct=s" width="3%"> Hi, I'm CarlosDev <img src="https://media1.giphy.com/media/j6xRdO7moPh2cgGMHN/giphy.gif?cid=ecf05e47q3675hprhj8jg65q4gzxtq2ef2v68mkhd8uifl2v&rid=giphy.gif&ct=s" width="3%"></h1>
 
-<img src= "https://64.media.tumblr.com/5762f6ce11eddded612602b01488156f/0e8da05b95451d6a-52/s640x960/d66e735a021582e5d1b3222e5c322faf0868a6c7.gifv" width="100%" height="500px" align="center">
+<img src= "https://media2.giphy.com/media/nIqz9K1jK35du/giphy.gif?cid=ecf05e470bvg261x75k72bpfyzq3a3kvzivlkl9sfjrph7nw&rid=giphy.gif&ct=g" width="100%" height="500px" align="center">
 
 - 🔥 Dev Junior 
 
@@ -19,7 +19,7 @@
 
 <div>
 <h2 align="center"> 🐺 About me 🐺 </h2>
-<img src="https://64.media.tumblr.com/db0d89c0286618f216dc0188f1d8daed/d51482178c06e3e4-cd/s400x600/50c72814b38d524a3c47a8cc183db7181b9f2e62.gifv"  width="150px" align="right">
+<img src="https://media4.giphy.com/media/l4FGF4DVYSeS5oIx2/giphy.gif?cid=ecf05e47fo90kh8otnjj4b3vxj76mi7q492mwut7avu3sriv&rid=giphy.gif&ct=g"  width="150px" align="right">
 <li>
   <b>Name:</b> Carlos Eduardo
 </li>
@@ -54,7 +54,7 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
 </p>
 <h2 align="center">💖 Thanks for reading 💖</h2>
 <div align="center">
-<img src="https://64.media.tumblr.com/6f39ded11d4329bfed449e7540d9e231/d21d6c5b55e98c08-82/s500x750/57f4d37c782f0b528e9d929fc8793d1b8e65086d.gifv">
+<img src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47vn0amvc9iz9iuu1979894uijfx9tjwl9a37eszjc&rid=giphy.gif&ct=g">
 </div>
 
 
