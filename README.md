@@ -1,51 +1,40 @@
-<h1 align="center"><img src="https://media1.giphy.com/media/j6xRdO7moPh2cgGMHN/giphy.gif?cid=ecf05e47q3675hprhj8jg65q4gzxtq2ef2v68mkhd8uifl2v&rid=giphy.gif&ct=s" width="30"> Hi, I'm CarlosDev <img src="https://media1.giphy.com/media/j6xRdO7moPh2cgGMHN/giphy.gif?cid=ecf05e47q3675hprhj8jg65q4gzxtq2ef2v68mkhd8uifl2v&rid=giphy.gif&ct=s" width="30"></h1>
+<div align="center">
+  <h1>🐺 Hi, I'm Carlos Eduardo 🐺</h1>
+  <img src= "https://media4.giphy.com/media/lS1zYaDPbCldvckT3f/giphy.gif?cid=ecf05e47c83gr72eo87zy31x7ubwobltdv3vkpt113gmfrks&rid=giphy.gif&ct=g" width="50%" align="center">
 
-<img src= "https://media4.giphy.com/media/lS1zYaDPbCldvckT3f/giphy.gif?cid=ecf05e47c83gr72eo87zy31x7ubwobltdv3vkpt113gmfrks&rid=giphy.gif&ct=g" width="100%" align="center">
-
-- 🔥 Dev Junior 
-
-- 👨‍💻 All of my projects are available at [CarlosDev](https://github.com/CarlosDev101)
-
-- 💬 Ask me about **Python, Java, HTML, CSS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- ▶️ I regularly post videos on [youtube.com/carlosdev](https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ)
-<br><br>
+  <div align="left">
+    
+  - 🔥 Dev Junior 
+  
+  - 👨‍💻 All of my projects are available at [CarlosDev](https://github.com/CarlosDev101)
+  
+  - ⚡ Fun fact **Oneye 😜**
+  
+  - ▶️ I regularly post videos on [youtube.com/carlosdev](https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ)
+  </div>
+</div>
 
 <div>
-<h2 align="center"> 🐺 About me 🐺 </h2>
-<img src="https://media4.giphy.com/media/l4FGF4DVYSeS5oIx2/giphy.gif?cid=ecf05e47fo90kh8otnjj4b3vxj76mi7q492mwut7avu3sriv&rid=giphy.gif&ct=g"  width="150px" align="right">
-<li>
-  <b>Name:</b> Carlos Eduardo
-</li>
-<li>
-  <b>Age:</b> 16 years old
-</li>
-<li>
-<b>Loves:</b>movies, series, musics, games
-</li>
-<li>
-<b>Nationality:</b> Brazilian
-</li>
+  <h2 align="center">🐺 About me 🐺</h2>
+  <img src="https://media4.giphy.com/media/l4FGF4DVYSeS5oIx2/giphy.gif?cid=ecf05e47fo90kh8otnjj4b3vxj76mi7q492mwut7avu3sriv&rid=giphy.gif&ct=g"  width="100px" align="right">
+  <li>
+    <b>Name:</b> Carlos Eduardo
+  </li>
+  <li>
+    <b>Age:</b> 18 years old
+  </li>
+  <li>
+    <b>Nationality:</b> Brazilian
+  </li>
 </div>
 
-I'm also good at programming logic, I know how to play guitar, I skate and I love listening to music
-<div style="display: inline_block"><br>
-  <img  alt="CarlosDev-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  alt="CarlosDev-Java" height="40" width="40" src="https://th.bing.com/th/id/R.2ebcc816698b99a4161299534445dd02?rik=F5u5EFRfzveRpw&riu=http%3a%2f%2fcheckpoint-it.hu%2f_media%2fimg%2fsmall%2ficons8-java-480.png&ehk=4bCNLeQJRMzHfk6uWAJR%2bq02OEnL%2fqQguYJBmz3TsPw%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"> 
-  <img  alt="CarlosDev-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  alt="CarlosDev-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  alt="CarlosDev-Git" height="40" width="40" src="https://th.bing.com/th/id/R.5dad01124c25d19c78aa763d94c6c3ee?rik=O6yFxpwCtIymFA&pid=ImgRaw&r=0">
-  <img  alt="CarlosDev-SQL" height="40" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
-  <p align="left">
-</div>
+<hr>
 
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 
 <p align="center">
-<img width="380em" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=vision-friendly-dark" alt="carlosdev101's stats"/>
-<img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
+<img width="380dp" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=vision-friendly-dark" alt="carlosdev101's stats"/>
+<img width="380dp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
 </p>
 <h2 align="center">💖 Thanks for reading 💖</h2>
 <div align="center">
