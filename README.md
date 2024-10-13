@@ -28,17 +28,16 @@
   </li>
 </div>
 
-<hr>
-
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 
-<p align="center">
-<img width="380dp" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=vision-friendly-dark" alt="carlosdev101's stats"/>
-<img width="380dp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
-</p>
+<div align="center">
+  <img width="300dp" src="https://github-readme-stats.vercel.app/api?username=carlosdev101&show_icons=true&theme=vision-friendly-dark" alt="carlosdev101's stats"/>
+  <img width="300dp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdev101&layout=compact&theme=vision-friendly-dark" alt="carlosdev101's most languages"/>
+</div>
+
 <h2 align="center">💖 Thanks for reading 💖</h2>
 <div align="center">
-<img src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47vn0amvc9iz9iuu1979894uijfx9tjwl9a37eszjc&rid=giphy.gif&ct=g" width="50%">
+  <img src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47vn0amvc9iz9iuu1979894uijfx9tjwl9a37eszjc&rid=giphy.gif&ct=g" width="50%">
 </div>
 
 
