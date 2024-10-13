@@ -12,10 +12,6 @@
 
 - ▶️ I regularly post videos on [youtube.com/carlosdev](https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ)
 <br><br>
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC6YLQsrK7aYpA2LgbVOmYiQ" target="_blank"><img height="40" width="40" src="https://multarte.com.br/wp-content/uploads/2020/04/youtube_logo.png"></a>
-  <a href="https://discord.com/users/653373680776380461" target="_blank"><img height="40" width="40" src="https://d33wubrfki0l68.cloudfront.net/7f988ede7749e1e355b9faef32c66c4b0b13ee87/a9900/assets/images/tool-icons/discord.png"></a>
-</div>
 
 <div>
 <h2 align="center"> 🐺 About me 🐺 </h2>
@@ -41,7 +37,6 @@ I'm also good at programming logic, I know how to play guitar, I skate and I lov
   <img  alt="CarlosDev-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  alt="CarlosDev-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  alt="CarlosDev-Git" height="40" width="40" src="https://th.bing.com/th/id/R.5dad01124c25d19c78aa763d94c6c3ee?rik=O6yFxpwCtIymFA&pid=ImgRaw&r=0">
-  <img  alt="CarlosDev-GitHub" height="40" width="40" src="https://th.bing.com/th/id/R.2026177e53f54db9f2f5bd4301710889?rik=Y0wZcc7tCGgq8A&pid=ImgRaw&r=0">
   <img  alt="CarlosDev-SQL" height="40" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
   <p align="left">
 </div>
